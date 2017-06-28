@@ -1,0 +1,1500 @@
+N:システムライフ)青木;一弘;;;
+SORT-STRING:システムライフ カズヒロ アオキ
+X-PHONETIC-FIRST-NAME:カズヒロ
+X-PHONETIC-LAST-NAME:システムライフ）アオキ
+N:コミュニケーション・アライアンス)青木;潤;;;
+SORT-STRING:コミュニケーション・アライアンス ジュン アオキ
+X-PHONETIC-FIRST-NAME:ジュン
+X-PHONETIC-LAST-NAME:コミュニケーション・アライアンス）アオキ
+N:コモドソリューションズ)秋元;行治;;;
+SORT-STRING:コモドソリューションズ ユキハル アキモト
+X-PHONETIC-FIRST-NAME:ユキハル
+X-PHONETIC-LAST-NAME:コモドソリューションズ）アキモト
+N:バンキング・システムズ)明峰;麻弓;;;
+SORT-STRING:バンキング・システムズ マユミ アケミネ
+X-PHONETIC-FIRST-NAME:マユミ
+X-PHONETIC-LAST-NAME:バンキング・システムズ）アケミネ
+N:アルファパートナーズ)浅井;秀明;;;
+SORT-STRING:アルファパートナーズ ヒデアキ アサイ
+X-PHONETIC-FIRST-NAME:ヒデアキ
+X-PHONETIC-LAST-NAME:アルファパートナーズ）アサイ
+N:エヌ・エス・イー)浅賀;義仁;;;
+SORT-STRING:エヌ・エス・イー ヨシヒト アサガ
+X-PHONETIC-FIRST-NAME:ヨシヒト
+X-PHONETIC-LAST-NAME:エヌ・エス・イー）アサガ
+N:ビズウインド)阿原;周平;;;
+SORT-STRING:ビズウインド シュウヘイ アハラ
+X-PHONETIC-FIRST-NAME:シュウヘイ
+X-PHONETIC-LAST-NAME:ビズウインド）アハラ
+N:システムクリエーション)阿部;達也;;;
+SORT-STRING:システムクリエーション タツヤ アベ
+X-PHONETIC-FIRST-NAME:タツヤ
+X-PHONETIC-LAST-NAME:システムクリエーション）アベ
+N:ボールド)雨宮;達也;;;
+SORT-STRING:ボールド タツヤ アメミヤ
+X-PHONETIC-FIRST-NAME:タツヤ
+X-PHONETIC-LAST-NAME:ボールド）アメミヤ
+N:アイネット)綾井;雅彦;;;
+SORT-STRING:アイネット マサヒコ アヤイ
+X-PHONETIC-FIRST-NAME:マサヒコ
+X-PHONETIC-LAST-NAME:アイネット）アヤイ
+N:働楽ホールディングス)荒井;久;;;
+SORT-STRING:ドウラクホールディングス ヒサシ アライ
+X-PHONETIC-FIRST-NAME:ヒサシ
+X-PHONETIC-LAST-NAME:ドウラクホールディングス）アライ
+N:ＧＯＯＹＡ)新井;公美;;;
+SORT-STRING:ジーオーオーワイエー ヒロミ アライ
+X-PHONETIC-FIRST-NAME:ヒロミ
+X-PHONETIC-LAST-NAME:ジーオーオーワイエー）アライ
+N:エイチ・エー・シー)荒川;和之;;;
+SORT-STRING:エイチ・エー・シー カズユキ アラカワ
+X-PHONETIC-FIRST-NAME:カズユキ
+X-PHONETIC-LAST-NAME:エイチ・エー・シー）アラカワ
+N:フラー)按田;洋平;;;
+SORT-STRING:フラー ヨウヘイ アンダ
+X-PHONETIC-FIRST-NAME:ヨウヘイ
+X-PHONETIC-LAST-NAME:フラー）アンダ
+N:アジアンリンク)安藤;寛人;;;
+SORT-STRING:アジアンリンク ヒロヒト アンドウ
+X-PHONETIC-FIRST-NAME:ヒロヒト
+X-PHONETIC-LAST-NAME:アジアンリンク）アンドウ
+N:マイクロネットワークテクノロジーズ)飯岡;翔太;;;
+SORT-STRING:マイクロネットワークテクノロジーズ ショウタ イイオカ
+X-PHONETIC-FIRST-NAME:ショウタ
+X-PHONETIC-LAST-NAME:マイクロネットワークテクノロジーズ）イイオカ
+N:富士ソフトABC)伊神;昭彦;;;
+SORT-STRING:フジソフトABC アキヒコ イガミ
+X-PHONETIC-FIRST-NAME:アキヒコ
+X-PHONETIC-LAST-NAME:フジソフトABC）イガミ
+N:サンエイソフトウエアジャパン)生田;真吾;;;
+SORT-STRING:サンエイソフトウエアジャパン シンゴ イクタ
+X-PHONETIC-FIRST-NAME:シンゴ
+X-PHONETIC-LAST-NAME:サンエイソフトウエアジャパン）イクタ
+N:アフロシー)郁;親;;;
+SORT-STRING:アフロシー チカシ イク
+X-PHONETIC-FIRST-NAME:チカシ
+X-PHONETIC-LAST-NAME:アフロシー）イク
+N:パーソルテクノロジースタッフ)石川;貴博;;;
+SORT-STRING:パーソルテクノロジースタッフ タカヒロ イシカワ
+X-PHONETIC-FIRST-NAME:タカヒロ
+X-PHONETIC-LAST-NAME:パーソルテクノロジースタッフ）イシカワ
+N:ネットアンサー)石川;量平;;;
+SORT-STRING:ネットアンサー リョウヘイ イシカワ
+X-PHONETIC-FIRST-NAME:リョウヘイ
+X-PHONETIC-LAST-NAME:ネットアンサー）イシカワ
+N:コンピュータマネジメント)石黒;正道;;;
+SORT-STRING:コンピュータマネジメント マサミチ イシグロ
+X-PHONETIC-FIRST-NAME:マサミチ
+X-PHONETIC-LAST-NAME:コンピュータマネジメント）イシグロ
+N:フィジオ)石田;博美;;;
+SORT-STRING:フィジオ ヒロミ イシダ
+X-PHONETIC-FIRST-NAME:ヒロミ
+X-PHONETIC-LAST-NAME:フィジオ）イシダ
+N:ウェブレッジ)石丸;篤史;;;
+SORT-STRING:ウェブレッジ アツシ イシマル
+X-PHONETIC-FIRST-NAME:アツシ
+X-PHONETIC-LAST-NAME:ウェブレッジ）イシマル
+N:キャリアパンク)石山;啓;;;
+SORT-STRING:キャリアパンク ケイ イシヤマ
+X-PHONETIC-FIRST-NAME:ケイ
+X-PHONETIC-LAST-NAME:キャリアパンク）イシヤマ
+N:ゼロワン)和泉;充広;;;
+SORT-STRING:ゼロワン ミツヒロ イズミ
+X-PHONETIC-FIRST-NAME:ミツヒロ
+X-PHONETIC-LAST-NAME:ゼロワン）イズミ
+N:ユニフォーメーション)磯部;武司;;;
+SORT-STRING:ユニフォーメーション タケシ イソベ
+X-PHONETIC-FIRST-NAME:タケシ
+X-PHONETIC-LAST-NAME:ユニフォーメーション）イソベ
+N:エコーシステムズ)板倉;孝夫;;;
+SORT-STRING:エコーシステムズ タカオ イタクラ
+X-PHONETIC-FIRST-NAME:タカオ
+X-PHONETIC-LAST-NAME:エコーシステムズ）イタクラ
+N:アクセンチュア)伊東;大助;;;
+SORT-STRING:アクセンチュア ダイスケ イトウ
+X-PHONETIC-FIRST-NAME:ダイスケ
+X-PHONETIC-LAST-NAME:アクセンチュア）イトウ
+N:富士ソフト)伊藤;隆;;;
+SORT-STRING:フジソフト タカシ イトウ
+X-PHONETIC-FIRST-NAME:タカシ
+X-PHONETIC-LAST-NAME:フジソフト）イトウ
+N:蒼空)伊東;美穂子;;;
+SORT-STRING:アオゾラ ミホコ イトウ
+X-PHONETIC-FIRST-NAME:ミホコ
+X-PHONETIC-LAST-NAME:アオゾラ）イトウ
+N:パイプドビッツ)伊藤;佑介;;;
+SORT-STRING:パイプドビッツ ユウスケ イトウ
+X-PHONETIC-FIRST-NAME:ユウスケ
+X-PHONETIC-LAST-NAME:パイプドビッツ）イトウ
+N:トリプルアイズ)伊藤;優汰;;;
+SORT-STRING:トリプルアイズ ユタ イトウ
+X-PHONETIC-FIRST-NAME:ユタ
+X-PHONETIC-LAST-NAME:トリプルアイズ）イトウ
+N:スタイラジー)伊藤;理緒;;;
+SORT-STRING:スタイラジー リオ イトウ
+X-PHONETIC-FIRST-NAME:リオ
+X-PHONETIC-LAST-NAME:スタイラジー）イトウ
+N:ユニバーサルコンピューター)伊東;梨紗;;;
+SORT-STRING:ユニバーサルコンピューター リサ イトウ
+X-PHONETIC-FIRST-NAME:リサ
+X-PHONETIC-LAST-NAME:ユニバーサルコンピューター）イトウ
+N:マルワソフト)稲泉;南美;;;
+SORT-STRING:マルワソフト ナミ イナイズミ
+X-PHONETIC-FIRST-NAME:ナミ
+X-PHONETIC-LAST-NAME:マルワソフト）イナイズミ
+N:ＳＰ)井上;俊輔;;;
+SORT-STRING:エスピー シュンスケ イノウエ
+X-PHONETIC-FIRST-NAME:シュンスケ
+X-PHONETIC-LAST-NAME:エスピー）イノウエ
+N:富士ソフトABC)井上;徹;;;
+SORT-STRING:フジソフトABC トオル イノウエ
+X-PHONETIC-FIRST-NAME:トオル
+X-PHONETIC-LAST-NAME:フジソフトABC）イノウエ
+N:スタークマインド)猪俣;昌明;;;
+SORT-STRING:スタークマインド マサアキ イノマタ
+X-PHONETIC-FIRST-NAME:マサアキ
+X-PHONETIC-LAST-NAME:スタークマインド）イノマタ
+N:スタークマインド)猪俣;昌明;;;
+SORT-STRING:スタークマインド マサアキ イノマタ
+X-PHONETIC-FIRST-NAME:マサアキ
+X-PHONETIC-LAST-NAME:スタークマインド）イノマタ
+N:スタークマインド)猪俣;昌明;;;
+SORT-STRING:スタークマインド マサアキ イノマタ
+X-PHONETIC-FIRST-NAME:マサアキ
+X-PHONETIC-LAST-NAME:スタークマインド）イノマタ
+N:情報ビルダーズ)今井;明徳;;;
+SORT-STRING:ジョウホウビルダーズ アキノリ イマイ
+X-PHONETIC-FIRST-NAME:アキノリ
+X-PHONETIC-LAST-NAME:ジョウホウビルダーズ）イマイ
+N:ゼネレイション)入巻;俊斗;;;
+SORT-STRING:ゼネレイション スグト イリマキ
+X-PHONETIC-FIRST-NAME:スグト
+X-PHONETIC-LAST-NAME:ゼネレイション）イリマキ
+N:光文社)岩谷;大;;;
+SORT-STRING:コウブンシャ ヒロシ イワタニ
+X-PHONETIC-FIRST-NAME:ヒロシ
+X-PHONETIC-LAST-NAME:コウブンシャ）イワタニ
+N:ケイ・シー・シー)岩本;典夫;;;
+SORT-STRING:ケイ・シー・シー ミチオ イワモト
+X-PHONETIC-FIRST-NAME:ミチオ
+X-PHONETIC-LAST-NAME:ケイ・シー・シー）イワモト
+N:Ｖスマートテック)岩本;侑也;;;
+SORT-STRING:ブイスマートテック ユウヤ イワモト
+X-PHONETIC-FIRST-NAME:ユウヤ
+X-PHONETIC-LAST-NAME:ブイスマートテック）イワモト
+N:システム・サイエンス)上原;直也;;;
+SORT-STRING:システム・サイエンス ナオヤ ウエハラ
+X-PHONETIC-FIRST-NAME:ナオヤ
+X-PHONETIC-LAST-NAME:システム・サイエンス）ウエハラ
+N:ＨＬ)于;潔;;;
+SORT-STRING:エイチエル ケツ ウ
+X-PHONETIC-FIRST-NAME:ケツ
+X-PHONETIC-LAST-NAME:エイチエル）ウ
+N:ティーアンドエス)牛久;保浩法;;;
+SORT-STRING:ティーアンドエス ヤスヒロノリ ウシク
+X-PHONETIC-FIRST-NAME:ヤスヒロノリ
+X-PHONETIC-LAST-NAME:ティーアンドエス）ウシク
+N:京西ワリエイト)臼井;哲夫;;;
+SORT-STRING:キョウニシワリエイト テツオ ウスイ
+X-PHONETIC-FIRST-NAME:テツオ
+X-PHONETIC-LAST-NAME:キョウニシワリエイト）ウスイ
+N:アイラボ)内田;絵里花;;;
+SORT-STRING:アイラボ エリカ ウチダ
+X-PHONETIC-FIRST-NAME:エリカ
+X-PHONETIC-LAST-NAME:アイラボ）ウチダ
+N:プライセン)内田;成人;;;
+SORT-STRING:プライセン シゲト ウチダ
+X-PHONETIC-FIRST-NAME:シゲト
+X-PHONETIC-LAST-NAME:プライセン）ウチダ
+N:エス・エム・シー)内野;真一;;;
+SORT-STRING:エス・エム・シー シンイチ ウチノ
+X-PHONETIC-FIRST-NAME:シンイチ
+X-PHONETIC-LAST-NAME:エス・エム・シー）ウチノ
+N:Ｓｋｙ)内海;綾香;;;
+SORT-STRING:エスケーワイ アヤカ ウツミ
+X-PHONETIC-FIRST-NAME:アヤカ
+X-PHONETIC-LAST-NAME:エスケーワイ）ウツミ
+N:日本システムデザイン)梅北;隼人;;;
+SORT-STRING:ニホンシステムデザイン ハヤト ウメキタ
+X-PHONETIC-FIRST-NAME:ハヤト
+X-PHONETIC-LAST-NAME:ニホンシステムデザイン）ウメキタ
+N:ソラシード)梅久保;朋也;;;
+SORT-STRING:ソラシード トモナリ ウメクボ
+X-PHONETIC-FIRST-NAME:トモナリ
+X-PHONETIC-LAST-NAME:ソラシード）ウメクボ
+N:情報戦略テクノロジー)梅津;康信;;;
+SORT-STRING:ジョウホウセンハカテクノロジー ヤスノブ ウメヅ
+X-PHONETIC-FIRST-NAME:ヤスノブ
+X-PHONETIC-LAST-NAME:ジョウホウセンハカテクノロジー）ウメヅ
+N:ＧＫＩ東京支社)榎木;文雄;;;
+SORT-STRING:ジーケーアイトウキョウシシャ フミオ エノキ
+X-PHONETIC-FIRST-NAME:フミオ
+X-PHONETIC-LAST-NAME:ジーケーアイトウキョウシシャ）エノキ
+N:ブルーポート)榎本;和貴;;;
+SORT-STRING:ブルーポート カズキ エノモト
+X-PHONETIC-FIRST-NAME:カズキ
+X-PHONETIC-LAST-NAME:ブルーポート）エノモト
+N:インフォメーションサービスフォース)榎本;耕一;;;
+SORT-STRING:インフォメーションサービスフォース コウイチ エノモト
+X-PHONETIC-FIRST-NAME:コウイチ
+X-PHONETIC-LAST-NAME:インフォメーションサービスフォース）エノモト
+N:テクノブレーン)江部;厚;;;
+SORT-STRING:テクノブレーン アツシ エベ
+X-PHONETIC-FIRST-NAME:アツシ
+X-PHONETIC-LAST-NAME:テクノブレーン）エベ
+N:セリオ)大川;貴弘;;;
+SORT-STRING:セリオ タカヒロ オオカワ
+X-PHONETIC-FIRST-NAME:タカヒロ
+X-PHONETIC-LAST-NAME:セリオ）オオカワ
+N:システムエグゼ)大河原;美幸;;;
+SORT-STRING:システムエグゼ ミユキ オオカワラ
+X-PHONETIC-FIRST-NAME:ミユキ
+X-PHONETIC-LAST-NAME:システムエグゼ）オオカワラ
+N:アクロ)大久保;佳宏;;;
+SORT-STRING:アクロ ヨシヒロ オオクボ
+X-PHONETIC-FIRST-NAME:ヨシヒロ
+X-PHONETIC-LAST-NAME:アクロ）オオクボ
+N:シ・エム・シ)大黒;眞満;;;
+SORT-STRING:シ・エム・シ マミ オオグロ
+X-PHONETIC-FIRST-NAME:マミ
+X-PHONETIC-LAST-NAME:シ・エム・シ）オオグロ
+N:ＳＤアドバイザーズ)大高;典子;;;
+SORT-STRING:エスデーアドバイザーズ ノリコ オオタカ
+X-PHONETIC-FIRST-NAME:ノリコ
+X-PHONETIC-LAST-NAME:エスデーアドバイザーズ）オオタカ
+N:往来技術)大武;尚史;;;
+SORT-STRING:オウライギジュツ ヒサシ オオタケ
+X-PHONETIC-FIRST-NAME:ヒサシ
+X-PHONETIC-LAST-NAME:オウライギジュツ）オオタケ
+N:エー・アール・シー)太田;悠之;;;
+SORT-STRING:エー・アール・シー ヒロユキ オオタ
+X-PHONETIC-FIRST-NAME:ヒロユキ
+X-PHONETIC-LAST-NAME:エー・アール・シー）オオタ
+N:サクラグ)大槻;啓介;;;
+SORT-STRING:サクラグ ケイスケ オオツキ
+X-PHONETIC-FIRST-NAME:ケイスケ
+X-PHONETIC-LAST-NAME:サクラグ）オオツキ
+N:富士ソフト)大場;聖子;;;
+SORT-STRING:フジソフト セイコ オオバ
+X-PHONETIC-FIRST-NAME:セイコ
+X-PHONETIC-LAST-NAME:フジソフト）オオバ
+N:アクシス・クリエイト)大庭;裕亮;;;
+SORT-STRING:アクシス・クリエイト ユウスケ オオバ
+X-PHONETIC-FIRST-NAME:ユウスケ
+X-PHONETIC-LAST-NAME:アクシス・クリエイト）オオバ
+N:ゆめも)大原;和洋;;;
+SORT-STRING:ユメモ カズヒロ オオハラ
+X-PHONETIC-FIRST-NAME:カズヒロ
+X-PHONETIC-LAST-NAME:ユメモ）オオハラ
+N:ハイテクシステム)大道;征記;;;
+SORT-STRING:ハイテクシステム セイキ オオミチ
+X-PHONETIC-FIRST-NAME:セイキ
+X-PHONETIC-LAST-NAME:ハイテクシステム）オオミチ
+N:ナビタイムジャパン)大和田;祐介;;;
+SORT-STRING:ナビタイムジャパン ユウスケ オオワダ
+X-PHONETIC-FIRST-NAME:ユウスケ
+X-PHONETIC-LAST-NAME:ナビタイムジャパン）オオワダ
+N:グッドスタッフ)岡田;侑也;;;
+SORT-STRING:グッドスタッフ ユウヤ オカダ
+X-PHONETIC-FIRST-NAME:ユウヤ
+X-PHONETIC-LAST-NAME:グッドスタッフ）オカダ
+N:京西ワリエイト)尾形;芳邦;;;
+SORT-STRING:キョウサイワリエイト ヨシクニ オガタ
+X-PHONETIC-FIRST-NAME:ヨシクニ
+X-PHONETIC-LAST-NAME:キョウサイワリエイト）オガタ
+N:京西クリエイト)岡部;春生;;;
+SORT-STRING:キョウニシクリエイト ヒロユキ オカベ
+X-PHONETIC-FIRST-NAME:ヒロユキ
+X-PHONETIC-LAST-NAME:キョウニシクリエイト）オカベ
+N:エイシル)岡本;大輝;;;
+SORT-STRING:エイシル ダイキ オカモト
+X-PHONETIC-FIRST-NAME:ダイキ
+X-PHONETIC-LAST-NAME:エイシル）オカモト
+N:東京システムハウス)岡本;崇裕;;;
+SORT-STRING:トウキョウシステムハウス タカヒロ オカモト
+X-PHONETIC-FIRST-NAME:タカヒロ
+X-PHONETIC-LAST-NAME:トウキョウシステムハウス）オカモト
+N:パートナー)荻原;孝彰;;;
+SORT-STRING:パートナー タカアキ オギワラ
+X-PHONETIC-FIRST-NAME:タカアキ
+X-PHONETIC-LAST-NAME:パートナー）オギワラ
+N:キヤノン電子テクノロジー)奥野;崇;;;
+SORT-STRING:キャノンデンシテクノロジー タカシ オクノ
+X-PHONETIC-FIRST-NAME:タカシ
+X-PHONETIC-LAST-NAME:キャノンデンシテクノロジー）オクノ
+N:エス・シー・アイ)奥村;文俊;;;
+SORT-STRING:エス・シー・アイ フミトシ オクムラ
+X-PHONETIC-FIRST-NAME:フミトシ
+X-PHONETIC-LAST-NAME:エス・シー・アイ）オクムラ
+N:富士ソフト)小倉;洋平;;;
+SORT-STRING:フジソフト ヨウヘイ オグラ
+X-PHONETIC-FIRST-NAME:ヨウヘイ
+X-PHONETIC-LAST-NAME:フジソフト）オグラ
+N:ロジカル・アーツ)長西;賢一;;;
+SORT-STRING:ロジカル・アーツ ケンイチ オサニシ
+X-PHONETIC-FIRST-NAME:ケンイチ
+X-PHONETIC-LAST-NAME:ロジカル・アーツ）オサニシ
+N:京装コンピューター)小澤;庸久;;;
+SORT-STRING:キョウソウコンピューター ノブヒサ オザワ
+X-PHONETIC-FIRST-NAME:ノブヒサ
+X-PHONETIC-LAST-NAME:キョウソウコンピューター）オザワ
+N:テクノブレイブ)織田;和宏;;;
+SORT-STRING:テクノブレイブ カズヒロ オダ
+X-PHONETIC-FIRST-NAME:カズヒロ
+X-PHONETIC-LAST-NAME:テクノブレイブ）オダ
+N:レバレジーズ)小田切;彰子;;;
+SORT-STRING:レバレジーズ アキコ オダギリ
+X-PHONETIC-FIRST-NAME:アキコ
+X-PHONETIC-LAST-NAME:レバレジーズ）オダギリ
+N:ＡＣＵ)小野田;茂浩;;;
+SORT-STRING:エーシーユー シゲヒロ オノダ
+X-PHONETIC-FIRST-NAME:シゲヒロ
+X-PHONETIC-LAST-NAME:エーシーユー）オノダ
+N:ニーズウェル)小野;千秋;;;
+SORT-STRING:ニーズウェル チアキ オノ
+X-PHONETIC-FIRST-NAME:チアキ
+X-PHONETIC-LAST-NAME:ニーズウェル）オノ
+N:富士ソフト)小野;裕次郎;;;
+SORT-STRING:フジソフト ユウジロウ オノ
+X-PHONETIC-FIRST-NAME:ユウジロウ
+X-PHONETIC-LAST-NAME:フジソフト）オノ
+N:コミュニケーション・アライアンス)折居;譲;;;
+SORT-STRING:コミュニケーション・アライアンス ユズル オリイ
+X-PHONETIC-FIRST-NAME:ユズル
+X-PHONETIC-LAST-NAME:コミュニケーション・アライアンス）オリイ
+N:スタークマインド)折茂;達雄;;;
+SORT-STRING:スタークマインド タツオ オリモ
+X-PHONETIC-FIRST-NAME:タツオ
+X-PHONETIC-LAST-NAME:スタークマインド）オリモ
+N:有限会社ＯＲＣＡＳ)貝瀬;幸敏;;;
+SORT-STRING:オーアールシーエーエス ユキトシ カイセ
+X-PHONETIC-FIRST-NAME:ユキトシ
+X-PHONETIC-LAST-NAME:オーアールシーエーエス）カイセ
+N:NPO法人JIET)貝瀬;幸敏;;;
+SORT-STRING:NPOホウジンJIET ユキトシ カイセ
+X-PHONETIC-FIRST-NAME:ユキトシ
+X-PHONETIC-LAST-NAME:NPOホウジンJIET）カイセ
+N:ジイファム)海北;和俊;;;
+SORT-STRING:ジイファム カズトシ カイホウ
+X-PHONETIC-FIRST-NAME:カズトシ
+X-PHONETIC-LAST-NAME:ジイファム）カイホウ
+N:シ・エム・シ)甲斐;雅之;;;
+SORT-STRING:シ・エム・シ マサユキ カイ
+X-PHONETIC-FIRST-NAME:マサユキ
+X-PHONETIC-LAST-NAME:シ・エム・シ）カイ
+N:テクノブレイブ)垣内;俊之;;;
+SORT-STRING:テクノブレイブ トシユキ カキウチ
+X-PHONETIC-FIRST-NAME:トシユキ
+X-PHONETIC-LAST-NAME:テクノブレイブ）カキウチ
+N:セッダー)郭;宗享;;;
+SORT-STRING:セッダー ムネタカ カク
+X-PHONETIC-FIRST-NAME:ムネタカ
+X-PHONETIC-LAST-NAME:セッダー）カク
+N:サンエイソフトウエアジャパン)影山;晴男;;;
+SORT-STRING:サンエイソフトウエアジャパン ハルオ カゲヤマ
+X-PHONETIC-FIRST-NAME:ハルオ
+X-PHONETIC-LAST-NAME:サンエイソフトウエアジャパン）カゲヤマ
+N:アイエックス・ナレッジ)笠井;慎一;;;
+SORT-STRING:アイエックス・ナレッジ シンイチ カサイ
+X-PHONETIC-FIRST-NAME:シンイチ
+X-PHONETIC-LAST-NAME:アイエックス・ナレッジ）カサイ
+N:富士ソフト)梶山;忍;;;
+SORT-STRING:フジソフト シノブ カジヤマ
+X-PHONETIC-FIRST-NAME:シノブ
+X-PHONETIC-LAST-NAME:フジソフト）カジヤマ
+N:アシストライズ)梶原;和彦;;;
+SORT-STRING:アシストライズ カズヒコ カジワラ
+X-PHONETIC-FIRST-NAME:カズヒコ
+X-PHONETIC-LAST-NAME:アシストライズ）カジワラ
+N:アスノシステム)糟谷;昇;;;
+SORT-STRING:アスノシステム ノボル カスヤ
+X-PHONETIC-FIRST-NAME:ノボル
+X-PHONETIC-LAST-NAME:アスノシステム）カスヤ
+N:富士ソフト)片岡;明治;;;
+SORT-STRING:フジソフト アキハル カタオカ
+X-PHONETIC-FIRST-NAME:アキハル
+X-PHONETIC-LAST-NAME:フジソフト）カタオカ
+N:富士ソフトABC)片岡;明治;;;
+SORT-STRING:フジソフトABC アキハル カタオカ
+X-PHONETIC-FIRST-NAME:アキハル
+X-PHONETIC-LAST-NAME:フジソフトABC）カタオカ
+N:アクシス・クリエイト)加藤;一輝;;;
+SORT-STRING:アクシス・クリエイト イッキ カトウ
+X-PHONETIC-FIRST-NAME:イッキ
+X-PHONETIC-LAST-NAME:アクシス・クリエイト）カトウ
+N:テクバン)加藤;浩真;;;
+SORT-STRING:テクバン ヒロマ カトウ
+X-PHONETIC-FIRST-NAME:ヒロマ
+X-PHONETIC-LAST-NAME:テクバン）カトウ
+N:シービーエス)兼清;一樹;;;
+SORT-STRING:シービーエス カズキ カネキヨ
+X-PHONETIC-FIRST-NAME:カズキ
+X-PHONETIC-LAST-NAME:シービーエス）カネキヨ
+N:富士テレコム)兼子;純一;;;
+SORT-STRING:フジテレコム ジュンイチ カネコ
+X-PHONETIC-FIRST-NAME:ジュンイチ
+X-PHONETIC-LAST-NAME:フジテレコム）カネコ
+N:インフォコム)我如古;正志;;;
+SORT-STRING:インフォコム マサシ ガネコ
+X-PHONETIC-FIRST-NAME:マサシ
+X-PHONETIC-LAST-NAME:インフォコム）ガネコ
+N:エス・アイ・シー)上條;涼;;;
+SORT-STRING:エス・アイ・シー リョウ カミジョウ
+X-PHONETIC-FIRST-NAME:リョウ
+X-PHONETIC-LAST-NAME:エス・アイ・シー）カミジョウ
+N:富士ソフト)亀井;秀雄;;;
+SORT-STRING:フジソフト ヒデオ カメイ
+X-PHONETIC-FIRST-NAME:ヒデオ
+X-PHONETIC-LAST-NAME:フジソフト）カメイ
+N:アイスタンダード)唐木田;遥奈;;;
+SORT-STRING:アイスタンダード ハルナ カラキダ
+X-PHONETIC-FIRST-NAME:ハルナ
+X-PHONETIC-LAST-NAME:アイスタンダード）カラキダ
+N:ケアリッツ・アンド・パートナーズ)川上;啓子;;;
+SORT-STRING:ケアリッツ・アンド・パートナーズ ケイコ カワカミ
+X-PHONETIC-FIRST-NAME:ケイコ
+X-PHONETIC-LAST-NAME:ケアリッツ・アンド・パートナーズ）カワカミ
+N:ウイズ．ワン)川波;弘;;;
+SORT-STRING:ウイズワン ヒロム カワナミ
+X-PHONETIC-FIRST-NAME:ヒロム
+X-PHONETIC-LAST-NAME:ウイズワン）カワナミ
+N:ケアリッツ・アンド・パートナーズ)河野;雄一;;;
+SORT-STRING:ケアリッツ・アンド・パートナーズ ユウイチ カワノ
+X-PHONETIC-FIRST-NAME:ユウイチ
+X-PHONETIC-LAST-NAME:ケアリッツ・アンド・パートナーズ）カワノ
+N:Ｓｋｙ)川又;一矢;;;
+SORT-STRING:エスケーワイ カズヤ カワマタ
+X-PHONETIC-FIRST-NAME:カズヤ
+X-PHONETIC-LAST-NAME:エスケーワイ）カワマタ
+N:応研)川本;康彦;;;
+SORT-STRING:オウケン ヤスヒコ カワモト
+X-PHONETIC-FIRST-NAME:ヤスヒコ
+X-PHONETIC-LAST-NAME:オウケン）カワモト
+N:ピーアンドアイ)菊地;伸一;;;
+SORT-STRING:ピーアンドアイ シンイチ キクチ
+X-PHONETIC-FIRST-NAME:シンイチ
+X-PHONETIC-LAST-NAME:ピーアンドアイ）キクチ
+N:ニューソン)木嵩;俊行;;;
+SORT-STRING:ニューソン トシユキ キスウ
+X-PHONETIC-FIRST-NAME:トシユキ
+X-PHONETIC-LAST-NAME:ニューソン）キスウ
+N:サイバートラスト)希代;凌;;;
+SORT-STRING:サイバートラスト リョウ キダイ
+X-PHONETIC-FIRST-NAME:リョウ
+X-PHONETIC-LAST-NAME:サイバートラスト）キダイ
+N:富士ソフト)北方;安吉;;;
+SORT-STRING:フジソフト ヤスキチ キタカタ
+X-PHONETIC-FIRST-NAME:ヤスキチ
+X-PHONETIC-LAST-NAME:フジソフト）キタカタ
+N:セントラルソフト)工藤;忠幸;;;
+SORT-STRING:セントラルソフト タダユキ クドウ
+X-PHONETIC-FIRST-NAME:タダユキ
+X-PHONETIC-LAST-NAME:セントラルソフト）クドウ
+N:兼松エレクトロニクス)國分;崇史;;;
+SORT-STRING:カネマツエレクトロニクス タカシ クニワ
+X-PHONETIC-FIRST-NAME:タカシ
+X-PHONETIC-LAST-NAME:カネマツエレクトロニクス）クニワ
+N:ジーソル)鈴木;浩之;;;
+SORT-STRING:ジーソル ヒロユキ ク
+X-PHONETIC-FIRST-NAME:ヒロユキ
+X-PHONETIC-LAST-NAME:ジーソル）ク
+N:ギークス)久保;元気;;;
+SORT-STRING:ギークス ゲンキ クボ
+X-PHONETIC-FIRST-NAME:ゲンキ
+X-PHONETIC-LAST-NAME:ギークス）クボ
+N:ソアレスト)久保田;晃浩;;;
+SORT-STRING:ソアレスト アキヒロ クボタ
+X-PHONETIC-FIRST-NAME:アキヒロ
+X-PHONETIC-LAST-NAME:ソアレスト）クボタ
+N:ＳＳＣ)久保;貴志;;;
+SORT-STRING:エスエスシー タカシクボ クボ
+X-PHONETIC-FIRST-NAME:タカシクボ
+X-PHONETIC-LAST-NAME:エスエスシー）クボ
+N:誠信システムズ)久保田;淳;;;
+SORT-STRING:マコトノブシステムズ ジュン クボタ
+X-PHONETIC-FIRST-NAME:ジュン
+X-PHONETIC-LAST-NAME:マコトノブシステムズ）クボタ
+N:アプトポッド)久保田;純一;;;
+SORT-STRING:アプトポッド ジュンイチ クボタ
+X-PHONETIC-FIRST-NAME:ジュンイチ
+X-PHONETIC-LAST-NAME:アプトポッド）クボタ
+N:情報技術開発)久保田;真一;;;
+SORT-STRING:ジョウホウギジュツカイハツ シンイチ クボタ
+X-PHONETIC-FIRST-NAME:シンイチ
+X-PHONETIC-LAST-NAME:ジョウホウギジュツカイハツ）クボタ
+N:富士ソフト)熊原;安曇;;;
+SORT-STRING:フジソフト アズミ クマハラ
+X-PHONETIC-FIRST-NAME:アズミ
+X-PHONETIC-LAST-NAME:フジソフト）クマハラ
+N:コンピュータマネジメント)栗林;苗子;;;
+SORT-STRING:コンピュータマネジメント ナエコ クリバヤシ
+X-PHONETIC-FIRST-NAME:ナエコ
+X-PHONETIC-LAST-NAME:コンピュータマネジメント）クリバヤシ
+N:ユードム)栗原;伸雄;;;
+SORT-STRING:ユードム ノブオ クリハラ
+X-PHONETIC-FIRST-NAME:ノブオ
+X-PHONETIC-LAST-NAME:ユードム）クリハラ
+N:レイシスソフトウエアーサービス)栗山;美保;;;
+SORT-STRING:レイシスソフトウエアーサービス ミホ クリヤマ
+X-PHONETIC-FIRST-NAME:ミホ
+X-PHONETIC-LAST-NAME:レイシスソフトウエアーサービス）クリヤマ
+N:アクティブエージェント)黒澤;侑太;;;
+SORT-STRING:アクティブエージェント ウタ クロサワ
+X-PHONETIC-FIRST-NAME:ウタ
+X-PHONETIC-LAST-NAME:アクティブエージェント）クロサワ
+N:エム・ソフト)桑田;秀樹;;;
+SORT-STRING:エム・ソフト ヒデキ クワダ
+X-PHONETIC-FIRST-NAME:ヒデキ
+X-PHONETIC-LAST-NAME:エム・ソフト）クワダ
+N:システムコミュニケート)小池;記祐;;;
+SORT-STRING:システムコミュニケート キユウ コイケ
+X-PHONETIC-FIRST-NAME:キユウ
+X-PHONETIC-LAST-NAME:システムコミュニケート）コイケ
+N:トライアロー)河野;桂一郎;;;
+SORT-STRING:トライアロー ケイイチロウ コウノ
+X-PHONETIC-FIRST-NAME:ケイイチロウ
+X-PHONETIC-LAST-NAME:トライアロー）コウノ
+N:ティーピーエス)幸保;学;;;
+SORT-STRING:ティーピーエス マナブ コウボ
+X-PHONETIC-FIRST-NAME:マナブ
+X-PHONETIC-LAST-NAME:ティーピーエス）コウボ
+N:E-safenet)後閑;紳一;;;
+SORT-STRING:E-safenet シンイチ ゴカン
+X-PHONETIC-FIRST-NAME:シンイチ
+X-PHONETIC-LAST-NAME:E-safenet）ゴカン
+N:Ｓｋｙ)小堺;隆典;;;
+SORT-STRING:エスケーワイ タカノリ コザカイ
+X-PHONETIC-FIRST-NAME:タカノリ
+X-PHONETIC-LAST-NAME:エスケーワイ）コザカイ
+N:アルトシステム)小島;秀隆;;;
+SORT-STRING:アルトシステム ヒデタカ コジマ
+X-PHONETIC-FIRST-NAME:ヒデタカ
+X-PHONETIC-LAST-NAME:アルトシステム）コジマ
+N:ベネフル総合研究所)小島;正継;;;
+SORT-STRING:ベネフルソウゴウケンキュウショ マサツグ コジマ
+X-PHONETIC-FIRST-NAME:マサツグ
+X-PHONETIC-LAST-NAME:ベネフルソウゴウケンキュウショ）コジマ
+N:プレインアーツ)小高;幸大;;;
+SORT-STRING:プレインアーツ コウダイ コタカ
+X-PHONETIC-FIRST-NAME:コウダイ
+X-PHONETIC-LAST-NAME:プレインアーツ）コタカ
+N:灘)後藤;健;;;
+SORT-STRING:ナダ タケシ ゴトウ
+X-PHONETIC-FIRST-NAME:タケシ
+X-PHONETIC-LAST-NAME:ナダ）ゴトウ
+N:ＳＳＣ)後藤;史生;;;
+SORT-STRING:エスエスシー フミオ ゴトウ
+X-PHONETIC-FIRST-NAME:フミオ
+X-PHONETIC-LAST-NAME:エスエスシー）ゴトウ
+N:ヒューマンシステム)小沼;早織;;;
+SORT-STRING:ヒューマンシステム サオリ コヌマ
+X-PHONETIC-FIRST-NAME:サオリ
+X-PHONETIC-LAST-NAME:ヒューマンシステム）コヌマ
+N:ＯＮＥ)小畑;笙子;;;
+SORT-STRING:オーエヌイー ショウコ コバタ
+X-PHONETIC-FIRST-NAME:ショウコ
+X-PHONETIC-LAST-NAME:オーエヌイー）コバタ
+N:富士ソフト)小林;恭二;;;
+SORT-STRING:フジソフト キョウジ コバヤシ
+X-PHONETIC-FIRST-NAME:キョウジ
+X-PHONETIC-LAST-NAME:フジソフト）コバヤシ
+N:システム・ブラウド)小林;健太郎;;;
+SORT-STRING:システム・ブラウド ケンタロウ コバヤシ
+X-PHONETIC-FIRST-NAME:ケンタロウ
+X-PHONETIC-LAST-NAME:システム・ブラウド）コバヤシ
+N:テクノブレイブ)小林;卓史;;;
+SORT-STRING:テクノブレイブ タカシ コバヤシ
+X-PHONETIC-FIRST-NAME:タカシ
+X-PHONETIC-LAST-NAME:テクノブレイブ）コバヤシ
+N:ＳＣＳＫ)小林;直史;;;
+SORT-STRING:エスシーエスケイ ナオフミ コバヤシ
+X-PHONETIC-FIRST-NAME:ナオフミ
+X-PHONETIC-LAST-NAME:エスシーエスケイ）コバヤシ
+N:帝国データバンクアクシス帝国データバンク)小林;伸行;;;
+SORT-STRING:テイコクデータバンクアクシステイコクデータバンク ノブユキ コバヤシ
+X-PHONETIC-FIRST-NAME:ノブユキ
+X-PHONETIC-LAST-NAME:テイコクデータバンクアクシステイコクデータバンク）コバヤシ
+N:アクティブエージェント)小松;まり子;;;
+SORT-STRING:アクティブエージェント マリコ コマツ
+X-PHONETIC-FIRST-NAME:マリコ
+X-PHONETIC-LAST-NAME:アクティブエージェント）コマツ
+N:協同コム)五味;敦郎;;;
+SORT-STRING:キョウドウコム アツロウ ゴミ
+X-PHONETIC-FIRST-NAME:アツロウ
+X-PHONETIC-LAST-NAME:キョウドウコム）ゴミ
+N:ＳＳＣ)小宮;史之;;;
+SORT-STRING:エスエスシー フミユキ コミヤ
+X-PHONETIC-FIRST-NAME:フミユキ
+X-PHONETIC-LAST-NAME:エスエスシー）コミヤ
+N:ビートテック)小山;潤;;;
+SORT-STRING:ビートテック ジュン コヤマ
+X-PHONETIC-FIRST-NAME:ジュン
+X-PHONETIC-LAST-NAME:ビートテック）コヤマ
+N:マイナビ)是永;真人;;;
+SORT-STRING:マイナビ マサト コレナガ
+X-PHONETIC-FIRST-NAME:マサト
+X-PHONETIC-LAST-NAME:マイナビ）コレナガ
+N:はばたーく)今野;周太;;;
+SORT-STRING:ハバターク シュウタ コンノ
+X-PHONETIC-FIRST-NAME:シュウタ
+X-PHONETIC-LAST-NAME:ハバターク）コンノ
+N:テイーアンドエス)財津;尚士;;;
+SORT-STRING:テイーアンドエス ナオシ ザイツ
+X-PHONETIC-FIRST-NAME:ナオシ
+X-PHONETIC-LAST-NAME:テイーアンドエス）ザイツ
+N:ユニバーサルコンピューター)斉藤;剛;;;
+SORT-STRING:ユニバーサルコンピューター ツヨシ サイトウ
+X-PHONETIC-FIRST-NAME:ツヨシ
+X-PHONETIC-LAST-NAME:ユニバーサルコンピューター）サイトウ
+N:ドリーム・シアター)齊藤;友彦;;;
+SORT-STRING:ドリーム・シアター トモヒコ サイトウ
+X-PHONETIC-FIRST-NAME:トモヒコ
+X-PHONETIC-LAST-NAME:ドリーム・シアター）サイトウ
+N:アルマプラス)齋藤;宏幸;;;
+SORT-STRING:アルマプラス ヒロユキ サイトウ
+X-PHONETIC-FIRST-NAME:ヒロユキ
+X-PHONETIC-LAST-NAME:アルマプラス）サイトウ
+N:ルーシップ)齋藤;勇気;;;
+SORT-STRING:ルーシップ ユウキ サイトウ
+X-PHONETIC-FIRST-NAME:ユウキ
+X-PHONETIC-LAST-NAME:ルーシップ）サイトウ
+N:日本ソフトウエア)齋藤;良太;;;
+SORT-STRING:ニホンソフトウエア リョウタ サイトウ
+X-PHONETIC-FIRST-NAME:リョウタ
+X-PHONETIC-LAST-NAME:ニホンソフトウエア）サイトウ
+N:スリープログループ)堺;信介;;;
+SORT-STRING:スリープログループ ノブスケ サカイ
+X-PHONETIC-FIRST-NAME:ノブスケ
+X-PHONETIC-LAST-NAME:スリープログループ）サカイ
+N:コモドソリューションヌ)酒井;基樹;;;
+SORT-STRING:コモドソリューションヌ モトキ サカイ
+X-PHONETIC-FIRST-NAME:モトキ
+X-PHONETIC-LAST-NAME:コモドソリューションヌ）サカイ
+N:バロックワークス)坂井;祐太;;;
+SORT-STRING:バロックワークス ユウタ サカイ
+X-PHONETIC-FIRST-NAME:ユウタ
+X-PHONETIC-LAST-NAME:バロックワークス）サカイ
+N:ケアリッツ・アンド・パートナーズ)榊;彩乃;;;
+SORT-STRING:ケアリッツ・アンド・パートナーズ アヤノ サカキ
+X-PHONETIC-FIRST-NAME:アヤノ
+X-PHONETIC-LAST-NAME:ケアリッツ・アンド・パートナーズ）サカキ
+N:ＳＣＳＫ)榊;萌子;;;
+SORT-STRING:エスシーエスケイ モエコ サカキ
+X-PHONETIC-FIRST-NAME:モエコ
+X-PHONETIC-LAST-NAME:エスシーエスケイ）サカキ
+N:マクロシステム)櫻井;毅;;;
+SORT-STRING:マクロシステム ツヨシ サクライ
+X-PHONETIC-FIRST-NAME:ツヨシ
+X-PHONETIC-LAST-NAME:マクロシステム）サクライ
+N:拭会社アルティメディア)笹野;忠昭;;;
+SORT-STRING:フガイシャアルティメディア タダアキ ササノ
+X-PHONETIC-FIRST-NAME:タダアキ
+X-PHONETIC-LAST-NAME:フガイシャアルティメディア）ササノ
+N:有限会社シーキングベストウェイ)佐藤;祟夫;;;
+SORT-STRING:シーキングベストウェイ タカオ サトウ
+X-PHONETIC-FIRST-NAME:タカオ
+X-PHONETIC-LAST-NAME:シーキングベストウェイ）サトウ
+N:日本マシンサービス)佐藤;隆弘;;;
+SORT-STRING:ニホンマシンサービス タカヒロ サトウ
+X-PHONETIC-FIRST-NAME:タカヒロ
+X-PHONETIC-LAST-NAME:ニホンマシンサービス）サトウ
+N:アークシステム)塩原;英介;;;
+SORT-STRING:アークシステム エイスケ シオバラ
+X-PHONETIC-FIRST-NAME:エイスケ
+X-PHONETIC-LAST-NAME:アークシステム）シオバラ
+N:トライアロー)塩谷;正隆;;;
+SORT-STRING:トライアロー マサタカ シオヤ
+X-PHONETIC-FIRST-NAME:マサタカ
+X-PHONETIC-LAST-NAME:トライアロー）シオヤ
+N:パイプドビッツ)重岡;祐介;;;
+SORT-STRING:パイプドビッツ　 ユウスケ シゲオカ
+X-PHONETIC-FIRST-NAME:ユウスケ
+X-PHONETIC-LAST-NAME:パイプドビッツ　）シゲオカ
+N:リンクスマイル)品川;拓磨;;;
+SORT-STRING:リンクスマイル タクマ シナガワ
+X-PHONETIC-FIRST-NAME:タクマ
+X-PHONETIC-LAST-NAME:リンクスマイル）シナガワ
+N:ＣＬＩＮＫＳ)篠倉;諒平;;;
+SORT-STRING:クリンクス リョウヘイ シノクラ
+X-PHONETIC-FIRST-NAME:リョウヘイ
+X-PHONETIC-LAST-NAME:クリンクス）シノクラ
+N:Ｔ４Ｃ)篠田;和久;;;
+SORT-STRING:ティ４シー カズヒサ シノダ
+X-PHONETIC-FIRST-NAME:カズヒサ
+X-PHONETIC-LAST-NAME:ティ４シー）シノダ
+N:富士ソフトABC)篠原;忠;;;
+SORT-STRING:フジソフトABC チュウ シノハラ
+X-PHONETIC-FIRST-NAME:チュウ
+X-PHONETIC-LAST-NAME:フジソフトABC）シノハラ
+N:アイエックス・ナレッジ)柴田;茂;;;
+SORT-STRING:アイエックス・ナレッジ シゲル シバタ
+X-PHONETIC-FIRST-NAME:シゲル
+X-PHONETIC-LAST-NAME:アイエックス・ナレッジ）シバタ
+N:シ・エム・シ)澁谷;薫;;;
+SORT-STRING:シ・エム・シ カオル シブヤ
+X-PHONETIC-FIRST-NAME:カオル
+X-PHONETIC-LAST-NAME:シ・エム・シ）シブヤ
+N:ハイテクシステム)島田;裕隆;;;
+SORT-STRING:ハイテクシステム ヒロタカ シマダ
+X-PHONETIC-FIRST-NAME:ヒロタカ
+X-PHONETIC-LAST-NAME:ハイテクシステム）シマダ
+N:モンスター・ラボ)島;友美;;;
+SORT-STRING:モンスター・ラボ ユミ シマ
+X-PHONETIC-FIRST-NAME:ユミ
+X-PHONETIC-LAST-NAME:モンスター・ラボ）シマ
+N:リブゲート)清水;遥菜;;;
+SORT-STRING:リブゲート ハルナ シミズ
+X-PHONETIC-FIRST-NAME:ハルナ
+X-PHONETIC-LAST-NAME:リブゲート）シミズ
+N:エバーネットデータ)白石;英夫;;;
+SORT-STRING:エバーネットデータ ヒデオ シライシ
+X-PHONETIC-FIRST-NAME:ヒデオ
+X-PHONETIC-LAST-NAME:エバーネットデータ）シライシ
+N:エイペック)白井;保夫;;;
+SORT-STRING:エイペック ヤスオ シライ
+X-PHONETIC-FIRST-NAME:ヤスオ
+X-PHONETIC-LAST-NAME:エイペック）シライ
+N:テクノ・ポッセ)白坂;浩太郎;;;
+SORT-STRING:テクノ・ポッセ コウタロウ シラサカ
+X-PHONETIC-FIRST-NAME:コウタロウ
+X-PHONETIC-LAST-NAME:テクノ・ポッセ）シラサカ
+N:難撚簿エス・イー・プロジェクト)白築;優一;;;
+SORT-STRING:ナンヨハクカブシキガイシャエス・イー・プロジェクト ユウイチ シラツ
+X-PHONETIC-FIRST-NAME:ユウイチ
+X-PHONETIC-LAST-NAME:ナンヨハクカブシキガイシャエス・イー・プロジェクト）シラツ
+N:神奈川労働局雇用開発第二係)新川;　隆;;;
+SORT-STRING:    シンカワ　タカシ
+X-PHONETIC-FIRST-NAME: 
+X-PHONETIC-LAST-NAME: ）シンカワ　タカシ
+N:ブレーンネット)新庄;哲和;;;
+SORT-STRING:ブレーンネット テツカ シンジョウ
+X-PHONETIC-FIRST-NAME:テツカ
+X-PHONETIC-LAST-NAME:ブレーンネット）シンジョウ
+N:ガゼル)申;添漠;;;
+SORT-STRING:ガゼル テンキ シン
+X-PHONETIC-FIRST-NAME:テンキ
+X-PHONETIC-LAST-NAME:ガゼル）シン
+N:インフォメーションクリエイティブ)菅原;孝;;;
+SORT-STRING:インフォメーションクリエイティブ タカシ スガワラ
+X-PHONETIC-FIRST-NAME:タカシ
+X-PHONETIC-LAST-NAME:インフォメーションクリエイティブ）スガワラ
+N:光文社)菅原;南美;;;
+SORT-STRING:コウブンシャ ナミ スガワラ
+X-PHONETIC-FIRST-NAME:ナミ
+X-PHONETIC-LAST-NAME:コウブンシャ）スガワラ
+N:富士ソフト)杉山;太;;;
+SORT-STRING:フジソフト フトシ スギヤマ
+X-PHONETIC-FIRST-NAME:フトシ
+X-PHONETIC-LAST-NAME:フジソフト）スギヤマ
+N:富士ソフト)助友;隆芳;;;
+SORT-STRING:フジソフト タカヨシ スケトモ
+X-PHONETIC-FIRST-NAME:タカヨシ
+X-PHONETIC-LAST-NAME:フジソフト）スケトモ
+N:パートナー)菅野;ゆかり;;;
+SORT-STRING:パートナー ユカリ スゲノ
+X-PHONETIC-FIRST-NAME:ユカリ
+X-PHONETIC-LAST-NAME:パートナー）スゲノ
+N:工一・アンド・ディ)菅生;昌也;;;
+SORT-STRING:エー・アンド・ディ マサヤ スゴオ
+X-PHONETIC-FIRST-NAME:マサヤ
+X-PHONETIC-LAST-NAME:エー・アンド・ディ）スゴオ
+N:ウイズ・ワン)鈴木;勝彦;;;
+SORT-STRING:ウイズ・ワン カツヒコ スズキ
+X-PHONETIC-FIRST-NAME:カツヒコ
+X-PHONETIC-LAST-NAME:ウイズ・ワン）スズキ
+N:プレッジ)鈴木;健介;;;
+SORT-STRING:プレッジ ケンスケ スズキ
+X-PHONETIC-FIRST-NAME:ケンスケ
+X-PHONETIC-LAST-NAME:プレッジ）スズキ
+N:ブランディングエンジニア)鈴木;優衣;;;
+SORT-STRING:ブランディングエンジニア ユイ スズキ
+X-PHONETIC-FIRST-NAME:ユイ
+X-PHONETIC-LAST-NAME:ブランディングエンジニア）スズキ
+N:日東テクノブレーン)鈴木;立;;;
+SORT-STRING:ニットウテクノブレーン リツ スズキ
+X-PHONETIC-FIRST-NAME:リツ
+X-PHONETIC-LAST-NAME:ニットウテクノブレーン）スズキ
+N:シーエスエス)瀬畑;俊哉;;;
+SORT-STRING:シーエスエス トシヤ セバタ
+X-PHONETIC-FIRST-NAME:トシヤ
+X-PHONETIC-LAST-NAME:シーエスエス）セバタ
+N:アイエスエフネットグローバル)ソウシ;ョゲン;;;
+SORT-STRING:アイエスエフネットグローバル ョゲン ソウシ
+X-PHONETIC-FIRST-NAME:ョゲン
+X-PHONETIC-LAST-NAME:アイエスエフネットグローバル）ソウシ
+N:ソフトバンク)宋;浩典;;;
+SORT-STRING:ソフトバンク ヒロノリ ソウ
+X-PHONETIC-FIRST-NAME:ヒロノリ
+X-PHONETIC-LAST-NAME:ソフトバンク）ソウ
+N:スピードリンクジャパン)曾我;彩佳;;;
+SORT-STRING:スピードリンクジャパン アヤカ ソガ
+X-PHONETIC-FIRST-NAME:アヤカ
+X-PHONETIC-LAST-NAME:スピードリンクジャパン）ソガ
+N:富士ソフト)曽我部;直;;;
+SORT-STRING:フジソフト タダシ ソガベ
+X-PHONETIC-FIRST-NAME:タダシ
+X-PHONETIC-LAST-NAME:フジソフト）ソガベ
+N:東京コンピュータサービス)高橋;一彦;;;
+SORT-STRING:  カズヒコ タカハシ
+X-PHONETIC-FIRST-NAME:カズヒコ
+X-PHONETIC-LAST-NAME: ）タカハシ
+N:ＩＮＮＯＣＲＥＡＴＥ)高橋;和哉;;;
+SORT-STRING:イノクリエイト カズヤ タカハシ
+X-PHONETIC-FIRST-NAME:カズヤ
+X-PHONETIC-LAST-NAME:イノクリエイト）タカハシ
+N:システムシェアード)高橋;慎之介;;;
+SORT-STRING:システムシェアード シンノスケ タカハシ
+X-PHONETIC-FIRST-NAME:シンノスケ
+X-PHONETIC-LAST-NAME:システムシェアード）タカハシ
+N:工一・エス・エル)高橋;知之;;;
+SORT-STRING:クイチ・エス・エル トモユキ タカハシ
+X-PHONETIC-FIRST-NAME:トモユキ
+X-PHONETIC-LAST-NAME:クイチ・エス・エル）タカハシ
+N:アイエスビー)高橋;秀治;;;
+SORT-STRING:アイエスビー ヒデジ タカハシ
+X-PHONETIC-FIRST-NAME:ヒデジ
+X-PHONETIC-LAST-NAME:アイエスビー）タカハシ
+N:エーピーコミュニケーションズ)高橋;祐美;;;
+SORT-STRING:エーピーコミュニケーションズ ユミ タカハシ
+X-PHONETIC-FIRST-NAME:ユミ
+X-PHONETIC-LAST-NAME:エーピーコミュニケーションズ）タカハシ
+N:エヌ・エス・イー)高見;桜子;;;
+SORT-STRING:エヌ・エス・イー サクラコ タカミ
+X-PHONETIC-FIRST-NAME:サクラコ
+X-PHONETIC-LAST-NAME:エヌ・エス・イー）タカミ
+N:アプリボット)高盛;昌洋;;;
+SORT-STRING:アプリボット マサヒロ タカモリ
+X-PHONETIC-FIRST-NAME:マサヒロ
+X-PHONETIC-LAST-NAME:アプリボット）タカモリ
+N:富士ソフトABC)瀧川;弘之;;;
+SORT-STRING:フジソフトABC ヒロユキ タキガワ
+X-PHONETIC-FIRST-NAME:ヒロユキ
+X-PHONETIC-LAST-NAME:フジソフトABC）タキガワ
+N:シナプス)田口;ー男;;;
+SORT-STRING:シナプス カズオ タグチ
+X-PHONETIC-FIRST-NAME:カズオ
+X-PHONETIC-LAST-NAME:シナプス）タグチ
+N:アイディーエス)武澤;賢治;;;
+SORT-STRING:アイディーエス ケンジ タケザワ
+X-PHONETIC-FIRST-NAME:ケンジ
+X-PHONETIC-LAST-NAME:アイディーエス）タケザワ
+N:フレアシステム)武田;直也;;;
+SORT-STRING:フレアシステム ナオヤ タケダ
+X-PHONETIC-FIRST-NAME:ナオヤ
+X-PHONETIC-LAST-NAME:フレアシステム）タケダ
+N:レバレジーズ)武田;美香;;;
+SORT-STRING:レバレジーズ ミカ タケダ
+X-PHONETIC-FIRST-NAME:ミカ
+X-PHONETIC-LAST-NAME:レバレジーズ）タケダ
+N:エフ・ティ・コム)武田;祥守;;;
+SORT-STRING:エフ・ティ・コム ヨシモリ タケダ
+X-PHONETIC-FIRST-NAME:ヨシモリ
+X-PHONETIC-LAST-NAME:エフ・ティ・コム）タケダ
+N:富士ソフト)立崎;智;;;
+SORT-STRING:フジソフト サトル タチサキ
+X-PHONETIC-FIRST-NAME:サトル
+X-PHONETIC-LAST-NAME:フジソフト）タチサキ
+N:アイエム)立石;亘;;;
+SORT-STRING:アイエム ワタル タテイシ
+X-PHONETIC-FIRST-NAME:ワタル
+X-PHONETIC-LAST-NAME:アイエム）タテイシ
+N:東京ＩＴ経営センター)田中;渉;;;
+SORT-STRING:トウキョウアイティーケイエイセンター ワタル タナカ
+X-PHONETIC-FIRST-NAME:ワタル
+X-PHONETIC-LAST-NAME:トウキョウアイティーケイエイセンター）タナカ
+N:オブジェクティブカルク)谷口;花緒;;;
+SORT-STRING:オブジェクティブカルク カオ タニグチ
+X-PHONETIC-FIRST-NAME:カオ
+X-PHONETIC-LAST-NAME:オブジェクティブカルク）タニグチ
+N:システム・サイエンス)田端;聡;;;
+SORT-STRING:システム・サイエンス サトシ タバタ
+X-PHONETIC-FIRST-NAME:サトシ
+X-PHONETIC-LAST-NAME:システム・サイエンス）タバタ
+N:マイクロネットワークテクノロジーズ)田部井;秀文;;;
+SORT-STRING:マイクロネットワークテクノロジーズ ヒデフミ タベイ
+X-PHONETIC-FIRST-NAME:ヒデフミ
+X-PHONETIC-LAST-NAME:マイクロネットワークテクノロジーズ）タベイ
+N:富士ソフト)千葉;潤治;;;
+SORT-STRING:フジソフト ジュンジ チバ
+X-PHONETIC-FIRST-NAME:ジュンジ
+X-PHONETIC-LAST-NAME:フジソフト）チバ
+N:ユニバーサルコンピューター)千葉;拓也;;;
+SORT-STRING:ユニバーサルコンピューター タクヤ チバ
+X-PHONETIC-FIRST-NAME:タクヤ
+X-PHONETIC-LAST-NAME:ユニバーサルコンピューター）チバ
+N:グローバル・リレーションズ)趙;;;;
+SORT-STRING:グローバル・リレーションズ   チョウ
+X-PHONETIC-FIRST-NAME: 
+X-PHONETIC-LAST-NAME:グローバル・リレーションズ）チョウ
+N:ノックスデータ椎式富社)長;潤治;;;
+SORT-STRING:ノックスデータシイシキトミシャ ジュンジ チョウ
+X-PHONETIC-FIRST-NAME:ジュンジ
+X-PHONETIC-LAST-NAME:ノックスデータシイシキトミシャ）チョウ
+N:アイエスビー)長;潤治;;;
+SORT-STRING:アイエスビー ジュンジ チョウ
+X-PHONETIC-FIRST-NAME:ジュンジ
+X-PHONETIC-LAST-NAME:アイエスビー）チョウ
+N:ウェブレッジ)塚田;冴理;;;
+SORT-STRING:ウェブレッジ サリ ツカダ
+X-PHONETIC-FIRST-NAME:サリ
+X-PHONETIC-LAST-NAME:ウェブレッジ）ツカダ
+N:インテリジェンス)辻;大輝;;;
+SORT-STRING:インテリジェンス ダイキ ツジ
+X-PHONETIC-FIRST-NAME:ダイキ
+X-PHONETIC-LAST-NAME:インテリジェンス）ツジ
+N:ベータシステム)土屋;久史;;;
+SORT-STRING:ベータシステム ヒサシ ツチヤ
+X-PHONETIC-FIRST-NAME:ヒサシ
+X-PHONETIC-LAST-NAME:ベータシステム）ツチヤ
+N:ディーオーエス)津野;義規;;;
+SORT-STRING:ディーオーエス ヨシノリ ツノ
+X-PHONETIC-FIRST-NAME:ヨシノリ
+X-PHONETIC-LAST-NAME:ディーオーエス）ツノ
+N:日本ソフトウエア)出口;貴昭;;;
+SORT-STRING:ニホンソフトウエア タカアキ デグチ
+X-PHONETIC-FIRST-NAME:タカアキ
+X-PHONETIC-LAST-NAME:ニホンソフトウエア）デグチ
+N:京西クリエイト)寺島;勇;;;
+SORT-STRING:キョウサイクリエイト イサム テラシマ
+X-PHONETIC-FIRST-NAME:イサム
+X-PHONETIC-LAST-NAME:キョウサイクリエイト）テラシマ
+N:ユニバーサルコンピューター)寺島;宏樹;;;
+SORT-STRING:ユニバーサルコンピューター ヒロキ テラジマ
+X-PHONETIC-FIRST-NAME:ヒロキ
+X-PHONETIC-LAST-NAME:ユニバーサルコンピューター）テラジマ
+N:アイビーウエーブ)富樫;一公;;;
+SORT-STRING:アイビーウエーブ カズトモ トガシ
+X-PHONETIC-FIRST-NAME:カズトモ
+X-PHONETIC-LAST-NAME:アイビーウエーブ）トガシ
+N:エイム・ソフト)飛澤;光;;;
+SORT-STRING:エイム・ソフト ミツ トビサワ
+X-PHONETIC-FIRST-NAME:ミツ
+X-PHONETIC-LAST-NAME:エイム・ソフト）トビサワ
+N:ブルーポート)朝武;絵梨子;;;
+SORT-STRING:ブルーポート エリコ トモタケ
+X-PHONETIC-FIRST-NAME:エリコ
+X-PHONETIC-LAST-NAME:ブルーポート）トモタケ
+N:ムトーアイテックス)鳥居;信幸;;;
+SORT-STRING:ムトーアイテックス ノブユキ トリイ
+X-PHONETIC-FIRST-NAME:ノブユキ
+X-PHONETIC-LAST-NAME:ムトーアイテックス）トリイ
+N:ノックスデータ)永井;圭多;;;
+SORT-STRING:ノックスデータ ケイタ ナガイ
+X-PHONETIC-FIRST-NAME:ケイタ
+X-PHONETIC-LAST-NAME:ノックスデータ）ナガイ
+N:ソフトネット)中尾;文昭;;;
+SORT-STRING:ソフトネット フミアキ ナカオ
+X-PHONETIC-FIRST-NAME:フミアキ
+X-PHONETIC-LAST-NAME:ソフトネット）ナカオ
+N:トリプルアイズ)長澤;智樹;;;
+SORT-STRING:トリプルアイズ トモキ ナガサワ
+X-PHONETIC-FIRST-NAME:トモキ
+X-PHONETIC-LAST-NAME:トリプルアイズ）ナガサワ
+N:スタヂオ・ユニ)中下;禎征;;;
+SORT-STRING:スタヂオ・ユニ テイユ ナカシタ
+X-PHONETIC-FIRST-NAME:テイユ
+X-PHONETIC-LAST-NAME:スタヂオ・ユニ）ナカシタ
+N:インテリジェンス)中島;大志;;;
+SORT-STRING:インテリジェンス コ ナカジマ
+X-PHONETIC-FIRST-NAME:コ
+X-PHONETIC-LAST-NAME:インテリジェンス）ナカジマ
+N:コラット黙)中嶋;隆;;;
+SORT-STRING:コラットカブシキガイシャカブシキガイシャダマ タカシ ナカジマ
+X-PHONETIC-FIRST-NAME:タカシ
+X-PHONETIC-LAST-NAME:コラットカブシキガイシャカブシキガイシャダマ）ナカジマ
+N:ＩＴ技術者センター)長谷;史;;;
+SORT-STRING:アイティーギジュツシャセンター フミ ナガタニ
+X-PHONETIC-FIRST-NAME:フミ
+X-PHONETIC-LAST-NAME:アイティーギジュツシャセンター）ナガタニ
+N:コムニック)永田;嘉康;;;
+SORT-STRING:コムニック ヨシヤス ナガタ
+X-PHONETIC-FIRST-NAME:ヨシヤス
+X-PHONETIC-LAST-NAME:コムニック）ナガタ
+N:フォトメ)中西;毅;;;
+SORT-STRING:フォトメ ツヨシ ナカニシ
+X-PHONETIC-FIRST-NAME:ツヨシ
+X-PHONETIC-LAST-NAME:フォトメ）ナカニシ
+N:富士ソフト)中村;一也;;;
+SORT-STRING:フジソフト カズヤ ナカムラ
+X-PHONETIC-FIRST-NAME:カズヤ
+X-PHONETIC-LAST-NAME:フジソフト）ナカムラ
+N:豆蔵)中村;国宏;;;
+SORT-STRING:マメクラ クニヒロ ナカムラ
+X-PHONETIC-FIRST-NAME:クニヒロ
+X-PHONETIC-LAST-NAME:マメクラ）ナカムラ
+N:エーアイエル)中村;祐輝;;;
+SORT-STRING:エーアイエル ユウキ ナカムラ
+X-PHONETIC-FIRST-NAME:ユウキ
+X-PHONETIC-LAST-NAME:エーアイエル）ナカムラ
+N:ニーズウェル)中山;信吾;;;
+SORT-STRING:ニーズウェル シンゴ ナカヤマ
+X-PHONETIC-FIRST-NAME:シンゴ
+X-PHONETIC-LAST-NAME:ニーズウェル）ナカヤマ
+N:旭システムズ)中山;純雄;;;
+SORT-STRING:アサヒシステムズ スミオ ナカヤマ
+X-PHONETIC-FIRST-NAME:スミオ
+X-PHONETIC-LAST-NAME:アサヒシステムズ）ナカヤマ
+N:セールスフォース・ドットコム)渚;干波;;;
+SORT-STRING:セールスフォース・ドットコム タテナミ ナギサ
+X-PHONETIC-FIRST-NAME:タテナミ
+X-PHONETIC-LAST-NAME:セールスフォース・ドットコム）ナギサ
+N:富士ソフト)生天目;宏高;;;
+SORT-STRING:フジソフト ヒロタカ ナマタメ
+X-PHONETIC-FIRST-NAME:ヒロタカ
+X-PHONETIC-LAST-NAME:フジソフト）ナマタメ
+N:ジイファム)生田目;靖人;;;
+SORT-STRING:ジイファム ヤスト ナマタメ
+X-PHONETIC-FIRST-NAME:ヤスト
+X-PHONETIC-LAST-NAME:ジイファム）ナマタメ
+N:テックファーム)南波;敦典;;;
+SORT-STRING:テックファーム アツノリ ナンバ
+X-PHONETIC-FIRST-NAME:アツノリ
+X-PHONETIC-LAST-NAME:テックファーム）ナンバ
+N:アウリス)仁木;裕美;;;
+SORT-STRING:アウリス ヒロミ ニキ
+X-PHONETIC-FIRST-NAME:ヒロミ
+X-PHONETIC-LAST-NAME:アウリス）ニキ
+N:ドルフィンスルー)西江;浩一郎;;;
+SORT-STRING:ドルフィンスルー コウイチロウ ニシエ
+X-PHONETIC-FIRST-NAME:コウイチロウ
+X-PHONETIC-LAST-NAME:ドルフィンスルー）ニシエ
+N:セリオ)西岡;淳;;;
+SORT-STRING:セリオ ジュン ニシオカ
+X-PHONETIC-FIRST-NAME:ジュン
+X-PHONETIC-LAST-NAME:セリオ）ニシオカ
+N:ＩＳＩＤインターテクノロジー)西川;達矢;;;
+SORT-STRING:アイエスアイディーインターテクノロジー タツヤ ニシカワ
+X-PHONETIC-FIRST-NAME:タツヤ
+X-PHONETIC-LAST-NAME:アイエスアイディーインターテクノロジー）ニシカワ
+N:日本システムウェア)西田;航司;;;
+SORT-STRING:ニホンシステムウェア コウジ ニシダ
+X-PHONETIC-FIRST-NAME:コウジ
+X-PHONETIC-LAST-NAME:ニホンシステムウェア）ニシダ
+N:シンメトリクス)西村;健;;;
+SORT-STRING:シンメトリクス ケン ニシムラ
+X-PHONETIC-FIRST-NAME:ケン
+X-PHONETIC-LAST-NAME:シンメトリクス）ニシムラ
+N:エフ・エスソフトウエア開発)西村;幸一;;;
+SORT-STRING:エフ・エスソフトウエアカイハツ コウイチ ニシムラ
+X-PHONETIC-FIRST-NAME:コウイチ
+X-PHONETIC-LAST-NAME:エフ・エスソフトウエアカイハツ）ニシムラ
+N:ソフネットジャパン)二反田;浩郁;;;
+SORT-STRING:ソフネットジャパン ヒロイク ニタンダ
+X-PHONETIC-FIRST-NAME:ヒロイク
+X-PHONETIC-LAST-NAME:ソフネットジャパン）ニタンダ
+N:ＮＴＴテクノクロス)新田;祥吾;;;
+SORT-STRING:エヌティーティーテクノクロス ショウゴ ニッタ
+X-PHONETIC-FIRST-NAME:ショウゴ
+X-PHONETIC-LAST-NAME:エヌティーティーテクノクロス）ニッタ
+N:アフロシー)根上;智幸;;;
+SORT-STRING:アフロシー トモユキ ネガミ
+X-PHONETIC-FIRST-NAME:トモユキ
+X-PHONETIC-LAST-NAME:アフロシー）ネガミ
+N:アウリス)野澤;裕樹;;;
+SORT-STRING:アウリス ユウキ ノザワ
+X-PHONETIC-FIRST-NAME:ユウキ
+X-PHONETIC-LAST-NAME:アウリス）ノザワ
+N:プラウドデータ)橋本;豊;;;
+SORT-STRING:プラウドデータ ユタカ ハシモト
+X-PHONETIC-FIRST-NAME:ユタカ
+X-PHONETIC-LAST-NAME:プラウドデータ）ハシモト
+N:システム・エポリューション)長谷川;幸治;;;
+SORT-STRING:システム・エポリューション コウジ ハセガワ
+X-PHONETIC-FIRST-NAME:コウジ
+X-PHONETIC-LAST-NAME:システム・エポリューション）ハセガワ
+N:テクパン)秦野;拓哉;;;
+SORT-STRING:テクパン タクヤ ハタノ
+X-PHONETIC-FIRST-NAME:タクヤ
+X-PHONETIC-LAST-NAME:テクパン）ハタノ
+N:ゆめも)初見;宏;;;
+SORT-STRING:ユメモ ヒロシ ハツミ
+X-PHONETIC-FIRST-NAME:ヒロシ
+X-PHONETIC-LAST-NAME:ユメモ）ハツミ
+N:オープンリソース)馬場;直道;;;
+SORT-STRING:オープンリソース ナオミチ ババ
+X-PHONETIC-FIRST-NAME:ナオミチ
+X-PHONETIC-LAST-NAME:オープンリソース）ババ
+N:アジアンリンク)林;達也;;;
+SORT-STRING:アジアンリンク タツヤ ハヤシ
+X-PHONETIC-FIRST-NAME:タツヤ
+X-PHONETIC-LAST-NAME:アジアンリンク）ハヤシ
+N:アルネリ)林;浩人;;;
+SORT-STRING:アルネリ ヒロト ハヤシ
+X-PHONETIC-FIRST-NAME:ヒロト
+X-PHONETIC-LAST-NAME:アルネリ）ハヤシ
+N:ＩＩＭヒューマン・ソリューション)半谷;友紀;;;
+SORT-STRING:アイアイエムヒューマン・ソリューション ユキ ハンヤ
+X-PHONETIC-FIRST-NAME:ユキ
+X-PHONETIC-LAST-NAME:アイアイエムヒューマン・ソリューション）ハンヤ
+N:オブジェクティブコア)東;峻之;;;
+SORT-STRING:オブジェクティブコア タカユキ ヒガシ
+X-PHONETIC-FIRST-NAME:タカユキ
+X-PHONETIC-LAST-NAME:オブジェクティブコア）ヒガシ
+N:マスターズソリューション)東山;隆幸;;;
+SORT-STRING:マスターズソリューション タカユキ ヒガシヤマ
+X-PHONETIC-FIRST-NAME:タカユキ
+X-PHONETIC-LAST-NAME:マスターズソリューション）ヒガシヤマ
+N:ゼクセロン)日森;弦;;;
+SORT-STRING:ゼクセロン ユズル ヒモリ
+X-PHONETIC-FIRST-NAME:ユズル
+X-PHONETIC-LAST-NAME:ゼクセロン）ヒモリ
+N:ソリティ)平岡;梨奈;;;
+SORT-STRING:ソリティ リナ ヒラオカ
+X-PHONETIC-FIRST-NAME:リナ
+X-PHONETIC-LAST-NAME:ソリティ）ヒラオカ
+N:アジャイルウェア)平川;隆仁;;;
+SORT-STRING:アジャイルウェア タカヒト ヒラカワ
+X-PHONETIC-FIRST-NAME:タカヒト
+X-PHONETIC-LAST-NAME:アジャイルウェア）ヒラカワ
+N:Ｓｋｙ)平塚;正則;;;
+SORT-STRING:エスケーワイ マサノリ ヒラツカ
+X-PHONETIC-FIRST-NAME:マサノリ
+X-PHONETIC-LAST-NAME:エスケーワイ）ヒラツカ
+N:富士ソフトABC)廣隆;治彦;;;
+SORT-STRING:フジソフトABC ハルヒコ ヒロタカ
+X-PHONETIC-FIRST-NAME:ハルヒコ
+X-PHONETIC-LAST-NAME:フジソフトABC）ヒロタカ
+N:アイ・アイ・ティー)深井;敏明;;;
+SORT-STRING:アイ・アイ・ティー トシアキ フカイ
+X-PHONETIC-FIRST-NAME:トシアキ
+X-PHONETIC-LAST-NAME:アイ・アイ・ティー）フカイ
+N:フェアーウェイ)福浦;健太;;;
+SORT-STRING:フェアーウェイ ケンタ フクウラ
+X-PHONETIC-FIRST-NAME:ケンタ
+X-PHONETIC-LAST-NAME:フェアーウェイ）フクウラ
+N:アズールプラス)福嶌;隆司;;;
+SORT-STRING:アズールプラス タカシ フクシマ
+X-PHONETIC-FIRST-NAME:タカシ
+X-PHONETIC-LAST-NAME:アズールプラス）フクシマ
+N:カコムス)福田;真史;;;
+SORT-STRING:カコムス マサヒト フクダ
+X-PHONETIC-FIRST-NAME:マサヒト
+X-PHONETIC-LAST-NAME:カコムス）フクダ
+N:シー・エム・エス)福本;正基;;;
+SORT-STRING:シー・エム・エス マサキ フクモト
+X-PHONETIC-FIRST-NAME:マサキ
+X-PHONETIC-LAST-NAME:シー・エム・エス）フクモト
+N:第一生命保険)藤野;陽子;;;
+SORT-STRING:ダイイチセイメイホケン ヨウコ フジノ
+X-PHONETIC-FIRST-NAME:ヨウコ
+X-PHONETIC-LAST-NAME:ダイイチセイメイホケン）フジノ
+N:アルトロラート)藤原;信也;;;
+SORT-STRING:アルトロラート シンヤ フジワラ
+X-PHONETIC-FIRST-NAME:シンヤ
+X-PHONETIC-LAST-NAME:アルトロラート）フジワラ
+N:ＭＨソリューションズ)船田;悠太;;;
+SORT-STRING:エムエイチソリューションズ ユウタ フナダ
+X-PHONETIC-FIRST-NAME:ユウタ
+X-PHONETIC-LAST-NAME:エムエイチソリューションズ）フナダ
+N:豆蔵)古井;一平;;;
+SORT-STRING:マメゾウ イッペイ フルイ
+X-PHONETIC-FIRST-NAME:イッペイ
+X-PHONETIC-LAST-NAME:マメゾウ）フルイ
+N:プロフェース・システムズ)古田;康雄;;;
+SORT-STRING:プロフェース・システムズ ヨスオ フルタ
+X-PHONETIC-FIRST-NAME:ヨスオ
+X-PHONETIC-LAST-NAME:プロフェース・システムズ）フルタ
+N:東京コンピュータサービス)坊野;賢;;;
+SORT-STRING:トウキョウコンピュータサービス タカシ ボウノ
+X-PHONETIC-FIRST-NAME:タカシ
+X-PHONETIC-LAST-NAME:トウキョウコンピュータサービス）ボウノ
+N:ＢＳＳ)方;誠;;;
+SORT-STRING:ビーエスエス マコト ホウ
+X-PHONETIC-FIRST-NAME:マコト
+X-PHONETIC-LAST-NAME:ビーエスエス）ホウ
+N:ルーセント・グロ一バル)保坂;幸則;;;
+SORT-STRING:ルーセント・グロイチバル ユキノリ ホサカ
+X-PHONETIC-FIRST-NAME:ユキノリ
+X-PHONETIC-LAST-NAME:ルーセント・グロイチバル）ホサカ
+N:アクティブエージェント)星野;謙;;;
+SORT-STRING:アクティブエージェント ケン ホシノ
+X-PHONETIC-FIRST-NAME:ケン
+X-PHONETIC-LAST-NAME:アクティブエージェント）ホシノ
+N:ゼネテック)細井;延明;;;
+SORT-STRING:ゼネテック ノブアキ ホソイ
+X-PHONETIC-FIRST-NAME:ノブアキ
+X-PHONETIC-LAST-NAME:ゼネテック）ホソイ
+N:エー・アール・シー)堀内;健剛;;;
+SORT-STRING:エー・アール・シー ツグヨシ ホリウチ
+X-PHONETIC-FIRST-NAME:ツグヨシ
+X-PHONETIC-LAST-NAME:エー・アール・シー）ホリウチ
+N:ＭＩＮＯＳＹＳ)堀切;勇;;;
+SORT-STRING:エムアイエヌオーエスワイエス イサム ホリキリ
+X-PHONETIC-FIRST-NAME:イサム
+X-PHONETIC-LAST-NAME:エムアイエヌオーエスワイエス）ホリキリ
+N:日本システムウェア)堀口;祐;;;
+SORT-STRING:ニホンシステムウェア ユウ ホリグチ
+X-PHONETIC-FIRST-NAME:ユウ
+X-PHONETIC-LAST-NAME:ニホンシステムウェア）ホリグチ
+N:富士ソフト)正井;健三;;;
+SORT-STRING:フジソフト ケンゾウ マサイ
+X-PHONETIC-FIRST-NAME:ケンゾウ
+X-PHONETIC-LAST-NAME:フジソフト）マサイ
+N:日本システムウェア)松井;直毅;;;
+SORT-STRING:ニホンシステムウェア ナオキ マツイ
+X-PHONETIC-FIRST-NAME:ナオキ
+X-PHONETIC-LAST-NAME:ニホンシステムウェア）マツイ
+N:エンタップ)松岡;利昌;;;
+SORT-STRING:エンタップ トシマサ マツオカ
+X-PHONETIC-FIRST-NAME:トシマサ
+X-PHONETIC-LAST-NAME:エンタップ）マツオカ
+N:エス・オー・エム)松下;信也;;;
+SORT-STRING:エス・オー・エム シンヤ マツシタ
+X-PHONETIC-FIRST-NAME:シンヤ
+X-PHONETIC-LAST-NAME:エス・オー・エム）マツシタ
+N:ＭＩＴ)松島;俊;;;
+SORT-STRING:エムアイティー シュン マツシマ
+X-PHONETIC-FIRST-NAME:シュン
+X-PHONETIC-LAST-NAME:エムアイティー）マツシマ
+N:情報技術開発)松田;洋祐;;;
+SORT-STRING:ジョウホウギジュツカイハツ ヨウスケ マツダ
+X-PHONETIC-FIRST-NAME:ヨウスケ
+X-PHONETIC-LAST-NAME:ジョウホウギジュツカイハツ）マツダ
+N:メディアシーク)松本;修;;;
+SORT-STRING:メディアシーク オサム マツモト
+X-PHONETIC-FIRST-NAME:オサム
+X-PHONETIC-LAST-NAME:メディアシーク）マツモト
+N:ソフトネット)丸山;明弘;;;
+SORT-STRING:ソフトネット アキヒロ マルヤマ
+X-PHONETIC-FIRST-NAME:アキヒロ
+X-PHONETIC-LAST-NAME:ソフトネット）マルヤマ
+N:ユナイテッドネオ)三枝;衣織;;;
+SORT-STRING:ユナイテッドネオ イオリ ミエダ
+X-PHONETIC-FIRST-NAME:イオリ
+X-PHONETIC-LAST-NAME:ユナイテッドネオ）ミエダ
+N:ジョブクラウン)三砂;竜一;;;
+SORT-STRING:ジョブクラウン リュウイチ ミサゴ
+X-PHONETIC-FIRST-NAME:リュウイチ
+X-PHONETIC-LAST-NAME:ジョブクラウン）ミサゴ
+N:エム・デー・ビー)水落;健太;;;
+SORT-STRING:エム・デー・ビー ケンタ ミズオチ
+X-PHONETIC-FIRST-NAME:ケンタ
+X-PHONETIC-LAST-NAME:エム・デー・ビー）ミズオチ
+N:アジャイルウェア)水口;崇;;;
+SORT-STRING:アジャイルウェア タカシ ミズグチ
+X-PHONETIC-FIRST-NAME:タカシ
+X-PHONETIC-LAST-NAME:アジャイルウェア）ミズグチ
+N:ドルフィンスルー一)水沢;素平;;;
+SORT-STRING:ドルフィンスルーイチ ソヘイ ミズサワ
+X-PHONETIC-FIRST-NAME:ソヘイ
+X-PHONETIC-LAST-NAME:ドルフィンスルーイチ）ミズサワ
+N:ＮＴＴコミユニケーションズ)水嶋;彬貴;;;
+SORT-STRING:エヌティーティーコミユニケーションズ アキキ ミズシマ
+X-PHONETIC-FIRST-NAME:アキキ
+X-PHONETIC-LAST-NAME:エヌティーティーコミユニケーションズ）ミズシマ
+N:イスコ)水谷;則之;;;
+SORT-STRING:イスコ ノリユキ ミズヤ
+X-PHONETIC-FIRST-NAME:ノリユキ
+X-PHONETIC-LAST-NAME:イスコ）ミズヤ
+N:ニューソン)水谷;靖士;;;
+SORT-STRING:ニューソン ヤスシ ミズヤ
+X-PHONETIC-FIRST-NAME:ヤスシ
+X-PHONETIC-LAST-NAME:ニューソン）ミズヤ
+N:パートナー)湊;憲司;;;
+SORT-STRING:パートナー ケンジ ミナト
+X-PHONETIC-FIRST-NAME:ケンジ
+X-PHONETIC-LAST-NAME:パートナー）ミナト
+N:京西クリエイト)南;厚;;;
+SORT-STRING:キョウサイクリエイト アツシ ミナミ
+X-PHONETIC-FIRST-NAME:アツシ
+X-PHONETIC-LAST-NAME:キョウサイクリエイト）ミナミ
+N:富士ソフト)南;実智夫;;;
+SORT-STRING:フジソフト ミチオ ミナミ
+X-PHONETIC-FIRST-NAME:ミチオ
+X-PHONETIC-LAST-NAME:フジソフト）ミナミ
+N:テクノリサーチ)蓑宮;政基;;;
+SORT-STRING:テクノリサーチ マサモト ミノミヤ
+X-PHONETIC-FIRST-NAME:マサモト
+X-PHONETIC-LAST-NAME:テクノリサーチ）ミノミヤ
+N:ＮＣデザイシベコンサＪＶティング)宮崎;和樹;;;
+SORT-STRING:エヌシーデザイシベコンサジェイブイティング カズキ ミヤザキ
+X-PHONETIC-FIRST-NAME:カズキ
+X-PHONETIC-LAST-NAME:エヌシーデザイシベコンサジェイブイティング）ミヤザキ
+N:オーパシステムエンジニアリング)宮本;諒;;;
+SORT-STRING:オーパシステムエンジニアリング マコト ミヤモト
+X-PHONETIC-FIRST-NAME:マコト
+X-PHONETIC-LAST-NAME:オーパシステムエンジニアリング）ミヤモト
+N:ＮｉｍｂｌｅＳｔｏｒａｇｅＪａｐａｎ合同会社)村田;京子;;;
+SORT-STRING:エヌアイエムビーエルイーエスティオーアールエージーイージェイエーピーエーエヌゴウドウガイシャ キョウコ ムラタ
+X-PHONETIC-FIRST-NAME:キョウコ
+X-PHONETIC-LAST-NAME:エヌアイエムビーエルイーエスティオーアールエージーイージェイエーピーエーエヌゴウドウガイシャ）ムラタ
+N:ＳＡＫＵＲＵＧ)村松;和明;;;
+SORT-STRING:エスエーケーユーアールユージー カズアキ ムラマツ
+X-PHONETIC-FIRST-NAME:カズアキ
+X-PHONETIC-LAST-NAME:エスエーケーユーアールユージー）ムラマツ
+N:ソフトビヨンド)茂木;裕樹;;;
+SORT-STRING:ソフトビヨンド ヒロキ モテキ
+X-PHONETIC-FIRST-NAME:ヒロキ
+X-PHONETIC-LAST-NAME:ソフトビヨンド）モテキ
+N:インフォメーションサービスフォース)本舘;純平;;;
+SORT-STRING:インフォメーションサービスフォース ジュンペイ モトダテ
+X-PHONETIC-FIRST-NAME:ジュンペイ
+X-PHONETIC-LAST-NAME:インフォメーションサービスフォース）モトダテ
+N:アイエスビー)本橋;干夏;;;
+SORT-STRING:アイエスビー チカ モトハシ
+X-PHONETIC-FIRST-NAME:チカ
+X-PHONETIC-LAST-NAME:アイエスビー）モトハシ
+N:ダイナミクス・コンサルティング)森崎;良二;;;
+SORT-STRING:ダイナミクス・コンサルティング リョウジ モリサキ
+X-PHONETIC-FIRST-NAME:リョウジ
+X-PHONETIC-LAST-NAME:ダイナミクス・コンサルティング）モリサキ
+N:エージーエス)森田;直秀;;;
+SORT-STRING:エージーエス ナオヒデ モリタ
+X-PHONETIC-FIRST-NAME:ナオヒデ
+X-PHONETIC-LAST-NAME:エージーエス）モリタ
+N:ＧＯＯＹＡ)森;睦雄;;;
+SORT-STRING:ジーオーオーワイエー トキオ モリ
+X-PHONETIC-FIRST-NAME:トキオ
+X-PHONETIC-LAST-NAME:ジーオーオーワイエー）モリ
+N:アイエンターｉ－ｅｎｔｅｒＧｒｏｕｐ：ｉ，ｅ．ｓｅａ)森;遼平;;;
+SORT-STRING:アイエンターアイマイナスイーエヌティイーアールジーアールオーユーピー：アイテンイーマルエスイーエーカブシキガ リョウヘイ モリ
+X-PHONETIC-FIRST-NAME:リョウヘイ
+X-PHONETIC-LAST-NAME:アイエンターアイマイナスイーエヌティイーアールジーアールオーユーピー：アイテンイーマルエスイーエーカブシキガ）モリ
+N:ティーピーエス)森脇;規夫;;;
+SORT-STRING:ティーピーエス ノリオ モリワキ
+X-PHONETIC-FIRST-NAME:ノリオ
+X-PHONETIC-LAST-NAME:ティーピーエス）モリワキ
+N:システムシェアード)諸石;大地;;;
+SORT-STRING:システムシェアード ダイチ モロイシ
+X-PHONETIC-FIRST-NAME:ダイチ
+X-PHONETIC-LAST-NAME:システムシェアード）モロイシ
+N:日本ソフトウエア)矢追;龍之介;;;
+SORT-STRING:ニホンソフトウエア リュウノスケ ヤオイ
+X-PHONETIC-FIRST-NAME:リュウノスケ
+X-PHONETIC-LAST-NAME:ニホンソフトウエア）ヤオイ
+N:サクヤ)安永;廉;;;
+SORT-STRING:サクヤ レン ヤスナガ
+X-PHONETIC-FIRST-NAME:レン
+X-PHONETIC-LAST-NAME:サクヤ）ヤスナガ
+N:ＧＥクリエイティブ)柳;将之;;;
+SORT-STRING:ジーイークリエイティブ マサユキ ヤナギ
+X-PHONETIC-FIRST-NAME:マサユキ
+X-PHONETIC-LAST-NAME:ジーイークリエイティブ）ヤナギ
+N:シンメトリクス)柳本;リン;;;
+SORT-STRING:シンメトリクス リン ヤナギモト
+X-PHONETIC-FIRST-NAME:リン
+X-PHONETIC-LAST-NAME:シンメトリクス）ヤナギモト
+N:ＨＡＬ)山内;大樹;;;
+SORT-STRING:エイチエーエル ヒロキ ヤマウチ
+X-PHONETIC-FIRST-NAME:ヒロキ
+X-PHONETIC-LAST-NAME:エイチエーエル）ヤマウチ
+N:情報戦略テクノロジー)山川;大志;;;
+SORT-STRING:ジョウホウセンハカテクノロジー タイシ ヤマカワ
+X-PHONETIC-FIRST-NAME:タイシ
+X-PHONETIC-LAST-NAME:ジョウホウセンハカテクノロジー）ヤマカワ
+N:シティアスコム)山口;幸平;;;
+SORT-STRING:シティアスコム コウヘイ ヤマグチ
+X-PHONETIC-FIRST-NAME:コウヘイ
+X-PHONETIC-LAST-NAME:シティアスコム）ヤマグチ
+N:Ｖグラン)山口;元大;;;
+SORT-STRING:ブイグラン モトヒロ ヤマグチ
+X-PHONETIC-FIRST-NAME:モトヒロ
+X-PHONETIC-LAST-NAME:ブイグラン）ヤマグチ
+N:イスコ)山崎;薫;;;
+SORT-STRING:イスコ カオル ヤマザキ
+X-PHONETIC-FIRST-NAME:カオル
+X-PHONETIC-LAST-NAME:イスコ）ヤマザキ
+N:テクノ・ポッセ)山崎;雅弘;;;
+SORT-STRING:テクノ・ポッセ マサヒロ ヤマサキ
+X-PHONETIC-FIRST-NAME:マサヒロ
+X-PHONETIC-LAST-NAME:テクノ・ポッセ）ヤマサキ
+N:テクノモバイル)山田;葵;;;
+SORT-STRING:テクノモバイル アオイ ヤマダ
+X-PHONETIC-FIRST-NAME:アオイ
+X-PHONETIC-LAST-NAME:テクノモバイル）ヤマダ
+N:ＧＥクリエイティブ)山田;昌平;;;
+SORT-STRING:ジーイークリエイティブ ショウヘイ ヤマダ
+X-PHONETIC-FIRST-NAME:ショウヘイ
+X-PHONETIC-LAST-NAME:ジーイークリエイティブ）ヤマダ
+N:セントラル警備保障)山田;哲史;;;
+SORT-STRING:セントラルケイビホショウ テツシ ヤマダ
+X-PHONETIC-FIRST-NAME:テツシ
+X-PHONETIC-LAST-NAME:セントラルケイビホショウ）ヤマダ
+N:スマートテクノロジー)山田;勇輝;;;
+SORT-STRING:スマートテクノロジー ユウキ ヤマダ
+X-PHONETIC-FIRST-NAME:ユウキ
+X-PHONETIC-LAST-NAME:スマートテクノロジー）ヤマダ
+N:ＪＣＤソリューション)山中;翔太;;;
+SORT-STRING:ジェイシーデーソリューション ショウタ ヤマナカ
+X-PHONETIC-FIRST-NAME:ショウタ
+X-PHONETIC-LAST-NAME:ジェイシーデーソリューション）ヤマナカ
+N:東京システムハウス)山本;剛正;;;
+SORT-STRING:トウキョウシステムハウス タケマサ ヤマモト
+X-PHONETIC-FIRST-NAME:タケマサ
+X-PHONETIC-LAST-NAME:トウキョウシステムハウス）ヤマモト
+N:スタイルズ)山本;英樹;;;
+SORT-STRING:スタイルズ ヒデキ ヤマモト
+X-PHONETIC-FIRST-NAME:ヒデキ
+X-PHONETIC-LAST-NAME:スタイルズ）ヤマモト
+N:京西クリエイト)湯澤;聡;;;
+SORT-STRING:キョウニシクリエイト サトシ ユザワ
+X-PHONETIC-FIRST-NAME:サトシ
+X-PHONETIC-LAST-NAME:キョウニシクリエイト）ユザワ
+N:誠信システムズ)楊;柳;;;
+SORT-STRING:マコトノブシステムズ リュウ ヨウ
+X-PHONETIC-FIRST-NAME:リュウ
+X-PHONETIC-LAST-NAME:マコトノブシステムズ）ヨウ
+N:ＲＪＣ)吉川;和貴;;;
+SORT-STRING:アールジェイシー カズタカ ヨシカワ
+X-PHONETIC-FIRST-NAME:カズタカ
+X-PHONETIC-LAST-NAME:アールジェイシー）ヨシカワ
+N:エーピークラフト)吉田;沙央里;;;
+SORT-STRING:エーピークラフト サオリ ヨシダ
+X-PHONETIC-FIRST-NAME:サオリ
+X-PHONETIC-LAST-NAME:エーピークラフト）ヨシダ
+N:コンピュータプラネックス)吉田;智史;;;
+SORT-STRING:コンピュータプラネックス サトシ ヨシダ
+X-PHONETIC-FIRST-NAME:サトシ
+X-PHONETIC-LAST-NAME:コンピュータプラネックス）ヨシダ
+N:マクニカ)吉村;学;;;
+SORT-STRING:マクニカ マナブ ヨシムラ
+X-PHONETIC-FIRST-NAME:マナブ
+X-PHONETIC-LAST-NAME:マクニカ）ヨシムラ
+N:インフォメーションポート)芳村;梨紗;;;
+SORT-STRING:インフォメーションポート リサ ヨシムラ
+X-PHONETIC-FIRST-NAME:リサ
+X-PHONETIC-LAST-NAME:インフォメーションポート）ヨシムラ
+N:コスメディア)米田;吉孝;;;
+SORT-STRING:コスメディア ヨシタカ ヨネダ
+X-PHONETIC-FIRST-NAME:ヨシタカ
+X-PHONETIC-LAST-NAME:コスメディア）ヨネダ
+N:東芝クライアントソリューション)米原;夏子;;;
+SORT-STRING:トウシバクライアントソリューション ナツコ ヨネハラ
+X-PHONETIC-FIRST-NAME:ナツコ
+X-PHONETIC-LAST-NAME:トウシバクライアントソリューション）ヨネハラ
+N:アイエンター)田村;竜生;;;
+SORT-STRING:アイエンター タムラ リュセイ
+X-PHONETIC-FIRST-NAME:タムラ
+X-PHONETIC-LAST-NAME:アイエンター）リュセイ
+N:セールスフォース・ドットコム)輪;;;;
+SORT-STRING:セールスフォース・ドットコム   ワ
+X-PHONETIC-FIRST-NAME: 
+X-PHONETIC-LAST-NAME:セールスフォース・ドットコム）ワ
+N:日本システムウェア)我妻;誠;;;
+SORT-STRING:ニホンシステムウェア マコト ワガツマ
+X-PHONETIC-FIRST-NAME:マコト
+X-PHONETIC-LAST-NAME:ニホンシステムウェア）ワガツマ
+N:サクヤ)脇元;千絵;;;
+SORT-STRING:サクヤ チエ ワキモト
+X-PHONETIC-FIRST-NAME:チエ
+X-PHONETIC-LAST-NAME:サクヤ）ワキモト
+N:スタッフアイ)渡邉;麻子;;;
+SORT-STRING:スタッフアイ アサコ ワタナベ
+X-PHONETIC-FIRST-NAME:アサコ
+X-PHONETIC-LAST-NAME:スタッフアイ）ワタナベ
+N:ユニバーサルコンピューター)帯刀;崇;;;
+SORT-STRING:ユニバーサルコンピューター    
+X-PHONETIC-FIRST-NAME: 
+X-PHONETIC-LAST-NAME:ユニバーサルコンピューター） 
+N:日本ソフトウェア)内田;資継;;;
+SORT-STRING:ニホンソフトウェア    
+X-PHONETIC-FIRST-NAME: 
+X-PHONETIC-LAST-NAME:ニホンソフトウェア） 
+N:ユニバーサルコンピューター)日方;一義;;;
+SORT-STRING:ユニバーサルコンピューター    
+X-PHONETIC-FIRST-NAME: 
+X-PHONETIC-LAST-NAME:ユニバーサルコンピューター） 
+N:ビートテック)冨田;正治;;;
+SORT-STRING:ビートテックカブシキガイシャ    
+X-PHONETIC-FIRST-NAME: 
+X-PHONETIC-LAST-NAME:ビートテックカブシキガイシャ） 
